@@ -16,7 +16,7 @@ After logging in with a user, you'll be directed conversations your test user is
 
 #### AI Note
 
-This demo app is currently uses a Heroku server as the liason with our dummy AI. 
+This demo app is currently using a Heroku server as the liason with our dummy AI. 
 
 ##### Chat List Screen
 
