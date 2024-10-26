@@ -18,8 +18,6 @@ After logging in with a user, you'll be directed conversations your test user is
 
 This demo app is currently uses a Heroku server as the liason with our dummy AI. 
 
-<img align="left" src="https://i.imgur.com/SaVCtkc.png" width="33%" />
-
 ##### Chat List Screen
 
 The conversation list includes avatars, unread indicators, last message previews and timestamps. It's swipeable, and new conversations can be created at the top right.
